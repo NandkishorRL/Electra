@@ -149,3 +149,6 @@
 
 
 * EBS-optimized Instances: For an additional, low, hourly fee, customers can launch selected Amazon EC2 instances types as EBS-optimized instances. EBS-optimized instances enable EC2 instances to fully use the IOPS provisioned on an EBS volume. EBS-optimized instances deliver dedicated throughput between Amazon EC2 and Amazon EBS, with options between 500 Megabits per second (Mbps) and 80 Gigabits per second (Gbps), depending on the instance type used. The dedicated throughput minimizes contention between Amazon EBS I/O and other traffic from our EC2 instance, providing the best performance for our EBS volumes. EBS-optimized instances are designed for use with all EBS volumes. When attached to EBS-optimized instances, Provisioned IOPS volumes can achieve single digit millisecond latencies and are designed to deliver within 10% of the provisioned IOPS performance 99.9% of the time. We recommend using Provisioned IOPS volumes with EBS-optimized instances or instances that support cluster networking for applications with high storage I/O requirements. 
+
+
+* Hi Guys, how are you.
